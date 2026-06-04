@@ -10,5 +10,5 @@ https://drive.google.com/file/d/12Lc5FB6H419JzqdRjfXwpjy0eV1uOZ-2/view?usp=shari
 Repository Ufficiale DRAEM:
 https://github.com/VitjanZ/DRAEM
 
-All'interno della repository sono presenti anche i file notebook utilizzati per addestrare e testare entrambi i modelli.
+All'interno della repository sono presenti anche i file notebook Colab utilizzati per addestrare e testare entrambi i modelli.
 
