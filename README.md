@@ -13,5 +13,9 @@ https://drive.google.com/file/d/12Lc5FB6H419JzqdRjfXwpjy0eV1uOZ-2/view?usp=shari
 Repository Ufficiale DRAEM:
 https://github.com/VitjanZ/DRAEM
 
+La struttura della repository è composta dalle due cartelle FPN e Unet:
+ - FPN contiene i file per il modello DRAEMFPN
+ - UNET contiene i file per il modello DRAEM (con Unet addestrata separatamente)
+
 All'interno della repository sono presenti anche i file notebook Colab utilizzati per addestrare e testare entrambi i modelli.
 
