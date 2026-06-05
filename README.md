@@ -3,6 +3,7 @@ Implementazione architetture: DRAEM e DRAEMFPN.
 
 Entrambi i modelli vengono addestrati utilizzando i checkpoint ufficiali disponibili su:
 [https://github.com/VitjanZ/DRAEM](https://drive.usercontent.google.com/download?id=1eOE8wXNihjsiDvDANHFbg_mQkLesDrs1&authuser=0)
+
 Entrambi i modelli sono stati addestrati sulle categorie:
 ['leather', 'pill', 'tile', 'transistor', 'wood']
 
